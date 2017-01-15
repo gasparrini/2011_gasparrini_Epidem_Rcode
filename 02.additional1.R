@@ -4,13 +4,12 @@
 #   "The Impact of Heat Waves on Mortality"
 #   Gasparrini A, Armstrong B
 #   Epidemiology 2011
-#   http://www.ag-myresearch.com/epidem2011.html
+#   http://www.ag-myresearch.com/2011_gasparrini_epidem.html
 #
-# Update: 14 March 2016
-# For any problem with this code, please contact antonio.gasparrini@lshtm.ac.uk
-# Please refer to the original code for any copyright issue
-#
-#  See www.ag-myresearch.com for future updates
+# Update: 11 January 2017
+# * an updated version of this code, compatible with future versions of the
+#   software, is available at:
+#   https://github.com/gasparrini/2011_gasparrini_Epidem_Rcode
 ####################################################################
 
 #####################################################################

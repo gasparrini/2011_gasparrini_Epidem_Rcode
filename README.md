@@ -1,5 +1,5 @@
 
-### Updated R code and data from Gasparrini Epidem 2011
+### Updated R code from Gasparrini Epidem 2011
 
 --------------------------------------------------------------------------------
 
