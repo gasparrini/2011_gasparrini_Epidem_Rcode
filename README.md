@@ -1,7 +1,6 @@
+### The impact of heat waves on mortality
 
-### Updated R code from Gasparrini Epidem 2011
-
---------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 A comparative analysis of the main and added effects of temperature on mortality. The code originally reproduced the example included in the article:
 
@@ -11,13 +10,12 @@ The original example included in the article was based on data for the 108 USA c
 
 Functions in the in the R package [dlnm](https://github.com/gasparrini/dlnm) are used for modelling the main effect and graphically representing the added effect, while functions in the R package [mvmeta](https://github.com/gasparrini/mvmeta) are applied for pooling the results from multiple studies.
 
-
---------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 The material:
 
-  * *01.main.R* reproduces the main results in the analysis
-  * *02.additional1.R* and *03.additional2.R* reproduces additional results
-  * *04.sensitivity.R* performs the sensitivity analyses
+-   *01.main.R* reproduces the main results in the analysis
+-   *02.additional1.R* and *03.additional2.R* reproduces additional results
+-   *04.sensitivity.R* performs the sensitivity analyses
 
 Download as a ZIP file using the green button *Clone or download* above
