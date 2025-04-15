@@ -4,7 +4,7 @@
 
 A comparative analysis of the main and added effects of temperature on mortality. The code originally reproduced the example included in the article:
 
-Gasparrini A, Armstrong B. The impact of heat waves on mortality. *Epidemiology*. 2011;**22**(1):68-73. DOI: 10.18637/jss.v043.i08. PMID: 22003319. [[freely available here](http://www.ag-myresearch.com/2011_gasparrini_epidem.html)]
+Gasparrini A, Armstrong B. The impact of heat waves on mortality. *Epidemiology*. 2011;**22**(1):68-73. DOI: 10.1097/EDE.0b013e3181fdcd99. PMID: 21150355. [[freely available here](http://www.ag-myresearch.com/2011_gasparrini_epidem.html)]
 
 The original example included in the article was based on data for the 108 USA cities available from the National Mortality, Morbidity, and Air Pollution Study (NMMAPS), which at the time of the publication were available through the R package NMMAPSlite. Unfortunately, the data are not available any more and the package NMMAPSlite has been archived. This means that the analysis of the paper is not replicable, unless you have access to the original data and you modify the code accordingly.
 
